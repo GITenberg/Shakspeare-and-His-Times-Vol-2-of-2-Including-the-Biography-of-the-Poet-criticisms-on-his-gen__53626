@@ -1,0 +1,31 @@
+_repo: Shakspeare-and-His-Times-Vol-2-of-2-Including-the-Biography-of-the-Poet-criticisms-on-his-gen__53626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drake, Nathan
+    birthdate: 1766
+    deathdate: 1836
+    gutenberg_agent_id: '47461'
+    url: http://www.gutenberg.org/2009/agents/47461
+description: ''
+gutenberg_issued: '2016-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616'
+- !lcsh 'English literature -- Early modern, 1500-1700 -- History and criticism'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Homes and haunts -- England'
+- !lcsh 'England -- Civilization -- 16th century'
+- !lcsh 'Dramatists, English -- Early modern, 1500-1700 -- Biography'
+- !lcc 'PR'
+- GITenberg
+title: "Shakspeare and His Times [Vol. 2 of 2]\r\nIncluding the Biography of the Poet;\
+  \ criticisms on his genius and writings; a new chronology of his plays; a disquisition\
+  \ on the on the object of his sonnets; and a history of the manners, customs, and\
+  \ amusements, superstitions, poetry, and elegant literature of his age"
+url: http://www.gutenberg.org/ebooks/53626
